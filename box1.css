@@ -1,0 +1,26 @@
+body{
+    background-image: url(./images/SKY.jpg);
+}
+
+h1 {
+    text-align: center;
+    /* border :width style color;*/
+    border: 5px solid black ;
+    padding : 0px 80px 0px 80px;
+    margin :0px 35% 0px 35%
+}
+img{
+
+    /* border: width style color*/
+    border: 3px solid red; 
+    margin-left: 41%;
+
+}
+h2{
+    text-align: center; 
+    color:rgb(12, 9, 8);
+        /* border :width style color;*/
+        border: 5px solid black ;
+        margin: 0px 150px 0px 150px
+
+}

@@ -1,0 +1,23 @@
+body{
+    background-image:linear-gradient(45deg,red 50%,rgb(192, 238, 11) 50%,blue 50% ,pink 50%);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+
+h1
+{
+    text-align: center;
+    /*border: width style color;*/
+    border: 6px solid black; 
+    padding :0px 20px 0px 20px;
+    margin: 3px 28%;
+
+
+}
+img{
+    /*border: width style color;*/
+    border: 4px solid black;
+    margin-left: 24%;
+    margin-top: 0%;
+}
